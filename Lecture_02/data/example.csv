@@ -1,0 +1,6 @@
+Name,Age,City,Student
+Alice,25.0,Vienna,True
+Bob,28.0,Feldkirch,False
+Charlie,23.0,Feldkirch,True
+David,33.0,Bregenz,False
+Eve,27.25,Unknown,False
